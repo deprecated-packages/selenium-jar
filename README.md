@@ -5,7 +5,7 @@
 Easy install over npm.
 
 ```sh
-npm install econea/selenium-jar
+npm install selenium-jar
 ```
 
 ## Usage
