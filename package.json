@@ -1,0 +1,19 @@
+{
+	"name": "selenium-jar",
+	"version": "2.52.0",
+	"description": "Selenium Jar for NPM",
+	"license": "BSD-3-Clause",
+	"url": "https://github.com/econea/selenium-jar",
+	"author": {
+		"name": "Milan Felix Sulc",
+		"email": "rkfelix@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/econea/selenium-jar.git"
+	},
+	"engines": {
+		"node": ">=4.0"
+	},
+	"main": "index.js",
+}
